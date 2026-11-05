@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,Gender,City,Product,Purchase_Amount
+1,Ravi,22,Male,Hyderabad,Laptop,55000
+2,Priya,25,Female,Bangalore,Mobile,30000
+3,Kiran,28,Male,Chennai,Laptop,60000
+4,Anjali,23,Female,Hyderabad,Mobile,25000
+5,Rahul,30,Male,Bangalore,Tablet,20000
+6,Divya,27,Female,Chennai,Laptop,58000
+7,Arjun,24,Male,Hyderabad,Tablet,18000
+8,Sneha,26,Female,Bangalore,Mobile,32000
+9,Vijay,29,Male,Chennai,Laptop,65000
+10,Kavya,22,Female,Hyderabad,Tablet,22000
